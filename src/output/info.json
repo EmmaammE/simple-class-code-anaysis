@@ -1,0 +1,60 @@
+{
+  "class": {
+    "loc": 45,
+    "name": "wordcloud",
+    "method": [
+      {
+        "name": "constructor",
+        "loc": 5,
+        "param": [
+          "props"
+        ]
+      },
+      {
+        "name": "draw",
+        "loc": 22,
+        "param": []
+      },
+      {
+        "name": "updateGraph",
+        "loc": 4,
+        "param": [
+          "value"
+        ]
+      },
+      {
+        "name": "_data",
+        "loc": 3,
+        "param": [
+          "value"
+        ]
+      },
+      {
+        "name": "_element",
+        "loc": 3,
+        "param": [
+          "value"
+        ]
+      }
+    ],
+    "members": [
+      [
+        "element",
+        "element"
+      ],
+      [
+        "allEvents",
+        "allEvents"
+      ],
+      [
+        "_data",
+        "_data"
+      ],
+      [
+        "data",
+        "data"
+      ]
+    ]
+  },
+  "comments": "11.76%"
+}
